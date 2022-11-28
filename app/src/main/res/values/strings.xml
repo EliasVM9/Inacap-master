@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inacap Admin Menu</string>
+    <string name="Nombre_Completo">Nombre Completo</string>
+    <string name="Direccion">Direccion</string>
+    <string name="Correo_electronico">Correo electronico</string>
+    <string name="Contrasena">Contrasena</string>
+    <string name="Empleadores">Trabajadores</string>
+</resources>
